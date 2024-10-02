@@ -4,6 +4,7 @@
 
 use soroban_sdk::Env;
 use soroban_sdk::{contract, Symbol, Vec, String};
+use soroban_sdk::testutils::Address;
 
 use crate::PaymentContract;
 
